@@ -1,6 +1,6 @@
 {
   "name": "onedionys-localization-library",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Localization Library) - A library to support multilingual experiences in web applications.",
   "main": "src/localization.js",
   "directories": {
